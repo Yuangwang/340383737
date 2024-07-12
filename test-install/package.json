@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@apphosting/adapter-nextjs": "^14.0.4"
+  }
+}
